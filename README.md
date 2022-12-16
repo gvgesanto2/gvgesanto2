@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hello! I'm Gabriel Santo!</h1>
-<h3 align="center">I'm open to new job opportunities and challenges</h3>
-
 
 <div align="left" width="50%">
-  <h2> About me </h2>
+  <h2> 👨‍💻 About me </h2>
   
   I'm a pragmatic Full-Stack Software Developer with a passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 
   
@@ -11,6 +9,7 @@
 
   - 💻 I’m currently learning how to improve my code quality with Clean Architecture and DDD. 
   - 💬 Ask me about Node.js, REST APIs, React and Redux, SOLID principles, and Design Patterns.
+  - 📕 Books: Agile Software Development, Principles, Patterns, and Practices - Robert C. Martin | Clean Architecture - Robert C. Martin
   - ⚡ Quote: Living, learning, & leveling up! 
 <div>
   
